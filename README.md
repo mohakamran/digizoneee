@@ -1,7 +1,7 @@
 # Digizone – E-Commerce Services Platform
 
 A modern, high-performance marketing website for Digizone, showcasing e-commerce services across UK and Australian markets. Built with cutting-edge web technologies to deliver an exceptional user experience with smooth animations, responsive design, and comprehensive service offerings.
-[digizoneee](Screenshot.png)
+![digizoneee](Screenshot.png)
 Demo Link: https://digizoneee.vercel.app/ 
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
