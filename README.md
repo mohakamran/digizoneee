@@ -1,6 +1,8 @@
 # Digizone – E-Commerce Services Platform
 
 A modern, high-performance marketing website for Digizone, showcasing e-commerce services across UK and Australian markets. Built with cutting-edge web technologies to deliver an exceptional user experience with smooth animations, responsive design, and comprehensive service offerings.
+[digizoneee](Screenshot.png)
+Demo Link: https://digizoneee.vercel.app/ 
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
@@ -41,10 +43,10 @@ A modern, high-performance marketing website for Digizone, showcasing e-commerce
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/digizone.git
+git clone https://github.com/mohakamran/digizoneee.git
 
 # Navigate to project directory
-cd digizone
+cd digizoneee
 
 # Install dependencies
 npm install
@@ -125,44 +127,6 @@ The project uses Tailwind CSS v4 with custom configuration:
 - Global styles in `app/globals.css`
 - Component-specific styles use Tailwind utility classes
 
-### Images and Assets
-- Replace placeholder images in `public/images/`
-- Update Lottie animation URLs in component files
-- Optimize images using Next.js Image component
-
-## 🔧 Development Notes
-
-### Forms
-Current implementation includes client-side form handling. For production deployment:
-- Integrate with backend API routes
-- Add server-side validation
-- Connect to email services or CRM platforms
-- Implement file upload handling for CV submissions
-
-### API Integration
-Create API routes in `app/api/` for:
-- Contact form submissions
-- Job applications
-- Newsletter signups
-- Dynamic content fetching
-
-### SEO Optimization
-- Update metadata in each page's `metadata` export
-- Add structured data for better search visibility
-- Optimize images with proper alt text
-- Implement sitemap generation
-
-## 📝 Content Guidelines
-
-### Images
-- Hero images: Unsplash placeholders (replace with branded imagery)
-- Team photos: High-resolution professional headshots
-- Case studies: Project screenshots and results visualizations
-
-### Copy
-- Services: Clear value propositions and benefit statements
-- Blog: SEO-friendly articles with target keywords
-- Careers: Detailed job descriptions and company culture content
 
 ## 🌐 Browser Support
 
@@ -171,51 +135,3 @@ Create API routes in `app/api/` for:
 - Safari (latest)
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 📦 Deployment
-
-### Vercel (Recommended)
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-```
-
-### Other Platforms
-The project is compatible with any platform supporting Next.js:
-- Netlify
-- AWS Amplify
-- Google Cloud Run
-- Self-hosted Node.js servers
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Support
-
-For questions or support:
-- Email: support@digizone.com
-- Documentation: [docs.digizone.com](https://docs.digizone.com)
-- Issues: [GitHub Issues](https://github.com/yourusername/digizone/issues)
-
-## 🙏 Acknowledgments
-
-- Next.js team for the excellent framework
-- Tailwind CSS for the utility-first CSS framework
-- Framer Motion for animation capabilities
-- Unsplash for placeholder imagery
-- Open source community for inspiration and tools
-
----
